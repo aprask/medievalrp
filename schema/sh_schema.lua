@@ -1,7 +1,7 @@
 
 Schema.name = "Medieval RP"
 Schema.author = "Don"
-Schema.description = "A Mafia RP server on Garry's Mod."
+Schema.description = "A medieval RP server on Garry's Mod."
 
 -- Include netstream
 ix.util.Include("libs/thirdparty/sh_netstream2.lua")
