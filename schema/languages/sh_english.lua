@@ -1,5 +1,5 @@
 LANGUAGE = {
-	schemaName = "Medieval RP",
+	schemaName = "Medieval Roleplay",
 	tying = "Tying...",
 	unTying = "Untying...",
 	isTied = "Tied",
